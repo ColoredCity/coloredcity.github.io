@@ -1,0 +1,33 @@
+# main links
+main:
+  - title: "Portfolio"
+    url: /galaxies/
+  - title: "Blog"
+    url: /year-archive/
+  - title: "About"
+    url: /about/
+
+portfolio:
+  - title: "Portfolio"
+    children:
+      - title: "• The Galaxies"
+        url: /galaxies/
+      - title: "• The Nebulae"
+        url: /nebulae/
+      - title: "• Golden Autumn"
+        url: /autumn/
+
+about:
+  - title: "About"
+    children:
+      - title: "• Contact As"
+        url: /about/contact-as/
+      - title: "• Terms and Conditions"
+        url: /about/terms/
+      - title: "• Privacy Policy"
+        url: /about/privacy-policy/
+      - title: "• Cookies Policy"
+        url: /about/cookies-policy/
+      - title: "• Return Policy"
+        url: /about/return-policy/
+
